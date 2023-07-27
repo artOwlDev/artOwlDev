@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Full-stack development enthusiast. <br>
 - You can find more about me on my <a href="https://www.artunselcuk.com">portfolio.</a>
 
-- Currently working on https://whispr.tv/
+- Currently working on <a href="https://whispr.tv/">Whispr.tv</a>
 
 
 
