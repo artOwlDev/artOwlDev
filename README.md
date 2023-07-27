@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-<div style="display: flex, flexDirection: "row"">
+<div style="display: flex; flex-direction: row;">
   <div> 
     <p>- Computer Science @DalhousieU</p>
     <p>- Full-stack development enthusiast</p>
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <div>
     <img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/f358f71b-92b2-4b49-bf25-d9edc8d5de01" alt="Your Image" width="200" height="200" style="border-radius: 50%;">
   </div>
-  
 </div>
+
 
 
 ## Socials:
