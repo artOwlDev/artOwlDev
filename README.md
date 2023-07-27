@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 
 # About Me
 
-- Computer Science @DalhousieU
-- Full-stack development enthusiast.
-- You can find more about me on my [portfolio](https://your-portfolio-url.com).
-
-- <img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" alt="Your Image" align="left">
-
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Computer Science @DalhousieU</li>
+      <li>Full-stack development enthusiast.</li>
+      <li>You can find more about me on my [portfolio](https://your-portfolio-url.com).</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" alt="Your Image" width="200" height="200" style="border-radius: 50%;">
+  </div>
+</div>
 
 
 
