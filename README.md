@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi there, I'm Artun. 👋</h1>
+<h1 style="text-align: center, margin: 0 auto;">Hi there, I'm Artun. 👋</h1>
 #
 
 <!--
