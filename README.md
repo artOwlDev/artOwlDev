@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-• Computer Science @DalhousieU <br>
-• Full-stack development enthusiast. <br>
-• You can find more about me on my portfolio.
+- Computer Science @DalhousieU <br>
+- Full-stack development enthusiast. <br>
+- You can find more about me on my portfolio.
+
+- Currently working on https://whispr.tv/
 
 
 
