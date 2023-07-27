@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span>-</span> Computer Science @DalhousieU.<br>
+<span>-</span> Computer Science @ DalhousieU.<br>
 <span>-</span> Full-stack software development enthusiast. <br>
 <span>-</span> You can find more about me on my <a href="https://www.artunselcuk.com">portfolio.</a>
 
