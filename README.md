@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-• Computer Science @DalhousieU
-• Full-stack development enthusiast.
+• Computer Science @DalhousieU <br>
+• Full-stack development enthusiast. <br>
 • You can find more about me on my portfolio.
 
 
