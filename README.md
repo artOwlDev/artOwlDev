@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>Full-stack development enthusiast</li>
     <li>You can find more about me on my <a href="https://your-portfolio-url.com">portfolio</a></li>
   </ul>
-  <img src="https://via.placeholder.com/200x200" alt="Your Image" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/f358f71b-92b2-4b49-bf25-d9edc8d5de01" alt="Your Image" width="200" height="200" style="border-radius: 50%;">
 </div>
 
 
