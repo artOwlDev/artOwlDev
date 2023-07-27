@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 • Full-stack development enthusiast. <br>
 • You can find more about me on my portfolio.
 
+![image](https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede)
+
+
 • Currently working on [whispr.tv](https://whispr.tv/)
 
 
