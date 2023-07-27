@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me:
-• Computer Science @DalhousieU <br>
-• Full-stack development enthusiast. <br>
-• You can find more about me on my portfolio.
+# About Me
+<img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" alt="Your Image" align="left" width="200" height="200">
 
-
-
-• Currently working on [whispr.tv](https://whispr.tv/)
-
-![image](https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede)
+- Computer Science @DalhousieU
+- Full-stack development enthusiast.
+- You can find more about me on my [portfolio](https://your-portfolio-url.com).
 
 
 
