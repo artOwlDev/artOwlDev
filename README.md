@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Full-stack development enthusiast.
 - You can find more about me on my [portfolio](https://your-portfolio-url.com).
 
-<img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" align="right" alt="Your Image"  width="400" height="400">
+<img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" align="right" alt="Your Image"  width="600" height="400">
 
 
 
