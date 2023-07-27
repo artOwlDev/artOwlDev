@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-<span>-</span> Computer Science @DalhousieU<br>
+<span>-</span> Computer Science @DalhousieU.<br>
 <span>-</span> Full-stack software development enthusiast. <br>
 <span>-</span> You can find more about me on my <a href="https://www.artunselcuk.com">portfolio.</a>
 
-<span>-</span> Currently working on <a href="https://whispr.tv/">Whispr.tv</a>
+<span>-</span> Currently working on <a href="https://whispr.tv/">Whispr.tv</a>.
 
 
 
