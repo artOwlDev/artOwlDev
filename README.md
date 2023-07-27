@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-<div style="display: flex">
+<div style="display: flex, flexDirection: "row"">
   <div> 
     <p>- Computer Science @DalhousieU</p>
     <p>- Full-stack development enthusiast</p>
