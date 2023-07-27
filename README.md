@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row, width: 100vw;">
   <div> 
     <p>- Computer Science @DalhousieU</p>
     <p>- Full-stack development enthusiast</p>
