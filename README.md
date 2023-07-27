@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-- Computer Science @DalhousieU <br>
+* Computer Science @DalhousieU <br>
 - Full-stack development enthusiast. <br>
 - You can find more about me on my portfolio.
 
