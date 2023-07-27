@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-<img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" alt="Your Image" align="left" width="400" height="400">
+<img src="https://github.com/artOwlDev/artOwlDev/assets/110153700/9a763882-b938-4af5-980d-9c2388f75ede" alt="Your Image"  width="400" height="400">
 
 - Computer Science @DalhousieU
 - Full-stack development enthusiast.
