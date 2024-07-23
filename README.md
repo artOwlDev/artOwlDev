@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <span>-</span> Computer Science @ DalhousieU.<br>
 <span>-</span> You can find more about me on my <a href="https://www.artunselcuk.com">portfolio.</a>
 
-<span>-</span> Currently working as a SWE Intern at Marsh McLennan
+<span>-</span> SWE Intern at Marsh McLennan
+<span>-</span> Research assistant at <a href="https://web.cs.dal.ca/~tushar/smart/">SMART Lab.</a>
+
 
 
 
