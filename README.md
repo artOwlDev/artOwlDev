@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 #  My Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=artOwlDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artOwlDev&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artOwlDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 
