@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <span>-</span> Computer Science @ DalhousieU.<br>
 <span>-</span> You can find more about me on my <a href="https://www.artunselcuk.com">portfolio.</a>
 
-<span>-</span> ML Research at <a href="https://web.cs.dal.ca/~tushar/smart/">SMART Lab.</a>
+<span>-</span>Researcher at <a href="https://web.cs.dal.ca/~tushar/smart/">SMART Lab.</a>
 
 
 
