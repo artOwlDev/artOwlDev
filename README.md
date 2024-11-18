@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋 I'm Artun Selçuk</h1>
 
-# 💫 About Me:
+# About Me:
 I am a fourth-year BCS student at Dalhousie University, passionate about exploring the ins and outs of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - Incoming SWE Intern @ Atria
 - Studying lots of leetcode :)
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
