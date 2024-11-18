@@ -1,4 +1,4 @@
-<h1 align="center">Hi <br>  👋 <br>   I'm Artun Selçuk</h1>
+<h1 align="center">Hi&nbsp; 👋 &nbsp;I'm Artun Selçuk</h1>
 
 # About Me:
 I am a fourth-year BCS student at Dalhousie University, passionate about exploring the ins and outs of coding, machine learning, and building robust applications.
