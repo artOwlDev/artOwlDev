@@ -6,6 +6,7 @@ I am a fourth-year BCS student at Dalhousie University, passionate about explori
 ## What I'm Up To
 
 - Incoming SWE Intern @ Atria (Winter '24)
+- Resarch Assistant @ SMART Lab
 - Studying lots of LeetCode :)
 
 ## Connect with me:
