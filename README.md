@@ -1,4 +1,4 @@
-<h1 align="center">Hi   👋   I'm Artun Selçuk</h1>
+<h1 align="center">Hi <br>  👋 <br>   I'm Artun Selçuk</h1>
 
 # About Me:
 I am a fourth-year BCS student at Dalhousie University, passionate about exploring the ins and outs of coding, machine learning, and building robust applications.
@@ -6,7 +6,7 @@ I am a fourth-year BCS student at Dalhousie University, passionate about explori
 ## What I'm Up To
 
 - Incoming SWE Intern @ Atria (Winter '24)
-- Studying lots of leetcode :)
+- Studying lots of <a leetcode :)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
