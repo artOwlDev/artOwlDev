@@ -1,7 +1,7 @@
 <h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun Selçuk</span></h2>
 
 ## ☕️  &nbsp; About Me:
-I am a fourth-year BCS student at Dalhousie University, passionate about exploring the ins and outs of coding, machine learning, and building robust applications.
+I am a fourth-year (4A) BCS student at Dalhousie University, passionate about exploring the ins and outs of coding, machine learning, and building robust applications.
 
 ## 📚 &nbsp; What I'm Up To 
 
