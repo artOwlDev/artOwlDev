@@ -5,6 +5,7 @@ I am a fourth-year (4A) BCS student at Dalhousie University, passionate about ex
 
 ## 📚 &nbsp; What I'm Up To 
 
+- Building Owluna
 - Incoming SWE Intern @ Atria (Winter '24)
 - Research Assistant @ SMART Lab
 - Studying lots of LeetCode :)
