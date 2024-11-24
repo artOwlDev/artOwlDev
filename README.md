@@ -8,7 +8,6 @@ I am a fourth-year (4A) BCS student at Dalhousie University, passionate about ex
 - Building Nyra
 - Incoming SWE Intern @ Atria (Winter '24)
 - Research Assistant @ SMART Lab
-- Studying lots of LeetCode :)
 
 ## 🌍 &nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
