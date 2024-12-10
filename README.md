@@ -6,7 +6,7 @@ I am a (4A) BCS student at Dalhousie University, passionate about exploring the 
 ## 📚 &nbsp; What I'm Up To 
 
 - Building Nyra
-- Incoming SWE Intern @ Atria (Winter '24)
+- SWE Intern @ Atria (Winter '24)
 - Research Assistant @ SMART Lab
 
 ## 🌍 &nbsp; Connect with me:
