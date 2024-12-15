@@ -6,8 +6,7 @@ I am a (4A) BCS student at Dalhousie University, passionate about exploring the 
 ## 📚 &nbsp; What I'm Up To 
 
 - Building Nyra
-- SWE Intern @ Atria (Winter '24)
-- Research Assistant @ SMART Lab
+- SWE Intern @ Atria
 
 ## 🌍 &nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
