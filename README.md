@@ -3,7 +3,7 @@
 ## ☕️  &nbsp; About Me:
 I am a (4B) BCS student at Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance and building applications I find interesting.
 
-## 📚 &nbsp; What I'm Up To 
+<h2> 📚 &nbsp; What I'm Up To </h2>
 
 - Building Nyra
 - SWE Intern @ Atria
