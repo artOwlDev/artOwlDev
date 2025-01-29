@@ -1,23 +1,23 @@
 <h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun Selçuk</span></h2>
 
-## ☕️  &nbsp; About Me:
+### ☕️  &nbsp; About Me:
 I am a (4B) BCS student at Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance and building applications I find interesting.
 
-<h2> 📚 &nbsp; What I'm Up To </h2>
+### 📚 &nbsp; What I'm Up To </h2>
 
 - Building Nyra
 - SWE Intern @ Atria
 
-## 🏛️ &nbsp; Work Experience
+### 🏛️ &nbsp; Work Experience
 
 - USRA @ Dalhousie University (SMART Lab)
 - SWE Intern @ Marsh McLennan 
 - SWE Intern @ Vosyn. ~ raised $2.2m in vc funding as an early engineer.
 
-## 🌍 &nbsp; Connect with me:
+### 🌍 &nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
 
-## 👾 &nbsp; Tech Stack:
+### 👾 &nbsp; Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
