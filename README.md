@@ -6,14 +6,15 @@ I am a (4B) BCS student at Dalhousie University, I enjoy exploring the ins and o
 ### 📚 &nbsp; What I'm Up To </h2>
 
 - Building Nyra
-- SWE Intern @ Atria
+- SWE Intern @ Atria (Winter '24)
 
 ### 🏛️ &nbsp; Work Experience
 
-- USRA @ Dalhousie University (SMART Lab)
-- SWE Intern @ Marsh McLennan 
-- SWE Intern @ Vosyn. ~ raised $2.2m in vc funding as an early engineer.
-
+- USRA @ Dalhousie University, SMART Lab (Summer '24 - Fall '24)
+- SWE Intern @ Marsh McLennan (Summer '24)
+- SWE Intern @ Vosyn. ~ raised $2.2m in vc funding as an early engineer. (Winter '23)
+- TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (Fall '23 - Present)
+ 
 ### 🌍 &nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
 
