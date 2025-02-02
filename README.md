@@ -10,7 +10,7 @@ I am a (4B) BCS student at Dalhousie University, I enjoy exploring the ins and o
 
 ### 🏛️ &nbsp; Work Experience
 
-- USRA @ Dalhousie University, SMART Lab (Summer '24 - Fall '24)
+- USRA @ Dalhousie University, SMART Lab (Summer '24 + Fall '24)
 - SWE Intern @ Marsh McLennan (Summer '24)
 - SWE Intern @ Vosyn. ~ raised $2.2m in vc funding as an early engineer. (Winter '23)
 - TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (Fall '23 - Present)
