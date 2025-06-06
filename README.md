@@ -1,15 +1,15 @@
 <h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun Selçuk</span></h2>
 
 ### ☕️  &nbsp; About Me:
-I am a (4B) BCS student at Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance and building applications I find interesting.
+I am a BCS graduate from Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance and building applications I find interesting.
 
 ### 📚 &nbsp; What I'm Up To </h2>
 
 - Building Nyra
-- SWE Intern @ Atria (Winter '24)
 
 ### 🏛️ &nbsp; Work Experience
 
+- SWE Intern @ Atria (Winter '24)
 - USRA @ Dalhousie University, SMART Lab (Summer '24 + Fall '24)
 - SWE Intern @ Marsh McLennan (Summer '24)
 - TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (Fall '23 - Present)
