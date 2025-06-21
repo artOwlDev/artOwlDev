@@ -3,10 +3,6 @@
 ### ☕️  &nbsp; About Me:
 I am a BCS graduate from Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance and building applications I find interesting.
 
-### 📚 &nbsp; What I'm Up To </h2>
-
-- Building Nyra
-
 ### 🏛️ &nbsp; Work Experience
 
 - SWE Intern @ Atria (Winter '24)
