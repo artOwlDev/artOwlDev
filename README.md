@@ -1,4 +1,4 @@
-<h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun Selçuk</span></h2>
+<h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun</span></h2>
 
 ### ☕️  &nbsp; About Me:
 I am a BCS graduate from Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance and building applications I find interesting.
