@@ -8,6 +8,7 @@ I am a BCS graduate from Dalhousie University, I enjoy exploring the ins and out
 - SWE Intern @ Atria (Winter '24)
 - USRA @ Dalhousie University, SMART Lab (Summer '24 + Fall '24)
 - SWE Intern @ Marsh McLennan (Summer '24)
+- SWE Intern @ Vosyn AI (Winter '23)
 - TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (Fall '23 - Present)
  
 ### 🌍 &nbsp; Connect with me:
