@@ -7,11 +7,11 @@ Focus: Data Engineering
 
 ### 🏛️ &nbsp; Work Experience
 
-- SWE Intern @ Atria (Winter '24)
-- USRA @ Dalhousie University, SMART Lab (Summer '24 + Fall '24)
-- SWE Intern @ Marsh McLennan (Summer '24)
-- SWE Intern @ Vosyn AI (Winter '23)
-- TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (Fall '23 - Winter '24)
+- SWE Intern @ Atria (January 2025 - April 2025)
+- USRA @ Dalhousie University, SMART Lab (May 2024 - December 2024)
+- SWE Intern @ Marsh McLennan (May 2024 - August 2024)
+- SWE Intern @ Vosyn AI (January 2024 - April 2024)
+- TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (September 2023 - April 2025)
  
 ### 🌍 &nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
