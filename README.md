@@ -3,8 +3,6 @@
 ### ☕️  &nbsp; About Me:
 I am a BCS graduate from Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance/investing and building applications I genuinely find interesting/helpful.
 
-Focus: Data Engineering
-
 ### 🏛️ &nbsp; Work Experience
 
 - SWE Intern @ Atria (January 2025 - April 2025)
