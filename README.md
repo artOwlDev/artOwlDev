@@ -1,7 +1,18 @@
 <h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun</span></h2>
 
 ### ☕️  &nbsp; About Me:
-I am a BCS graduate from Dalhousie University, I enjoy exploring the ins and outs of coding, DSA, math, finance/investing and building applications I genuinely find interesting/helpful.
+
+Dalhousie University | Bachelors of Computer Science | Focus in Data/ML
+
+### 📚 &nbsp; Interests:
+
+- Data Engieering
+- Data Analysis
+- Machine Learning
+- Software Engineering
+- Math/Finance
+- Investing
+- Data Structures & Algorithms
 
 ### 🏛️ &nbsp; Work Experience
 
