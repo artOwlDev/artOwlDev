@@ -10,9 +10,9 @@ Dalhousie University | Bachelors of Computer Science | Focus in Data/ML
 - Data Analysis
 - Machine Learning
 - Software Engineering
-- Math/Finance
-- Investing
 - Data Structures & Algorithms
+- Math
+- Investing / Finance
 
 ### 🏛️ &nbsp; Work Experience
 
