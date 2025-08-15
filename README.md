@@ -13,7 +13,7 @@ I aim to deepen my understanding and build projects for topics I find interestin
 - Machine Learning
 - Software Engineering
 - Data Structures & Algorithms
-- Math
+- Math / Statistics
 - Investing / Finance
 
 ### 🏛️ &nbsp; Work Experience
