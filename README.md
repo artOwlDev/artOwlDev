@@ -8,7 +8,7 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### 📚 &nbsp; Interests:
 
-- Data Engieering
+- Data Engineering
 - Data Analysis
 - Machine Learning
 - Software Engineering
