@@ -18,6 +18,7 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### 🏛️ &nbsp; Work Experience
 
+- SWE @ Blockbyte GmbH (September 2024 - October 2025)
 - SWE Intern @ Atria (January 2025 - April 2025)
 - USRA @ Dalhousie University (May 2024 - December 2024)
 - SWE Intern @ Marsh McLennan (May 2024 - August 2024)
