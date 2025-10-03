@@ -9,16 +9,15 @@ I aim to deepen my understanding and build projects for topics I find interestin
 ### 📚 &nbsp; Interests:
 
 - Data Engineering
-- Data Analysis
-- Machine Learning
-- Software Engineering
+- Embedded Systems, Concurrency
 - Data Structures & Algorithms
 - Math / Statistics
 - Investing / Finance
+- Arduino Enjoyer
 
 ### 🏛️ &nbsp; Work Experience
 
-- SWE @ Blockbyte GmbH (September 2024 - October 2025)
+- SWE @ Blockbyte GmbH (September 2024 - Present)
 - SWE Intern @ Atria (January 2025 - April 2025)
 - USRA @ Dalhousie University (May 2024 - December 2024)
 - SWE Intern @ Marsh McLennan (May 2024 - August 2024)
@@ -36,13 +35,12 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ##### Languages
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
 ##### Frameworks/Tools
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
