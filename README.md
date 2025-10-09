@@ -8,12 +8,11 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### 📚 &nbsp; Interests:
 
+- Software Engineering
 - Data Engineering
-- Embedded Systems, Concurrency
 - Data Structures & Algorithms
 - Math / Statistics
 - Investing / Finance
-- Arduino Enjoyer
 
 ### 🏛️ &nbsp; Work Experience
 
