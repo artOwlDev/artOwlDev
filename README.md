@@ -1,4 +1,3 @@
-<h2 align="center">🦉 &nbsp; Hi, I'm <span>Artun</span></h2>
 
 ### ☕️  &nbsp; About Me:
 
