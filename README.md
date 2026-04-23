@@ -13,17 +13,6 @@ I aim to deepen my understanding and build projects for topics I find interestin
 - Math / Statistics
 - Investing / Finance
 
-### 🏛️ &nbsp; Work Experience
-
-- SWE Intern @ Atria (January 2025 - April 2025)
-- USRA @ Dalhousie University (May 2024 - December 2024)
-- SWE Intern @ Marsh McLennan (May 2024 - August 2024)
-- SWE/Data Intern @ Vosyn AI (January 2024 - April 2024)
-- TA/Marker for CS 4171, CS 3172, CS 2170, CS 2110 (September 2023 - April 2025)
-
-- Stanford University - Supervised Machine Learning: Regression and Classification (Certification)
-
- 
 ### 🌍 &nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://artun.vercel.app)
