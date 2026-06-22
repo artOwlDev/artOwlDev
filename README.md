@@ -5,8 +5,8 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### 📚 &nbsp; Interests:
 
-- Software Engineering
-- Data Engineering
-- Data Structures & Algorithms
-- Math / Statistics
-- Investing / Finance
+&#8594; Software Engineering  \
+&#8594; Data Engineering \
+&#8594; Data Structures & Algorithms \
+&#8594; Math / Statistics \
+&#8594; Investing / Finance
