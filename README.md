@@ -9,7 +9,7 @@ I aim to deepen my understanding and build projects for topics I find interestin
 &#8594; Undergraduate Researcher @ SMART Labs \
 &#8594; Software Engineering Intern @ Marsh \
 &#8594; Software Engineering Intern @ Vosyn \
-&#8594; Teaching Assistant / Marker @ Dalhousie University 
+&#8594; Teaching Assistant & Marker @ Dalhousie University 
 
 ### Interests:
 
