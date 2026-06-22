@@ -5,6 +5,7 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### Experience:
 
+&#8594; Software Engineer @ Kainos (present) \
 &#8594; Software Engineering Intern @ Atria \
 &#8594; Undergraduate Researcher @ SMART Labs \
 &#8594; Software Engineering Intern @ Marsh \
