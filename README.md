@@ -14,12 +14,13 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### Interests:
 
-- Competitive Programming 
+- Competitive Programming
+- Investing / Finance 
 - Data Engineering  
 - Software Engineering 
 - Data Structures & Algorithms 
-- Math / Statistics 
-- Investing / Finance
+- Math / Statistics
+- Coffee Enjoyer
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artunselcuk/) 
