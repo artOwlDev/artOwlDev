@@ -8,7 +8,7 @@ I aim to deepen my understanding and build projects for topics I find interestin
 - Software Engineer @ **Kainos** (present) 
 - Software Engineer Intern @ **Atria** (Jan 2025 - Apr 2025) 
 - Undergraduate Researcher @ **SMART Labs** (May 2024 - Dec 2024) 
-- Software Engineer Intern @ **Marsh** (May 2024 - Aug 2024) 
+- Software Engineer Intern @ **Marsh McLennan** (May 2024 - Aug 2024) 
 - Software Engineer Intern @ **Vosyn** (Jan 2024 - Apr 2024) 
 - Teaching Assistant & Marker @ **Dalhousie University** (Sep 2023 - Apr 2025)
 
