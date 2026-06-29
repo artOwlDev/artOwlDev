@@ -15,10 +15,9 @@ I aim to deepen my understanding and build projects for topics I find interestin
 ### Interests:
 
 - Data Engineering  
-- Microcontrollers
+- Systems Programming
 - Competitive Programming
 - Investing / Finance 
-- Software Engineering 
 - Data Structures & Algorithms
 - Math / Statistics
 - Cybersecurity
