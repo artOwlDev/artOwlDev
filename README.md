@@ -20,7 +20,6 @@ I aim to deepen my understanding and build projects for topics I find interestin
 - Investing / Finance 
 - Data Structures & Algorithms
 - Math / Statistics
-- Cybersecurity
 - Coffee & Sports
 
 ### Connect With Me:
