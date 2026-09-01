@@ -14,9 +14,9 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### Interests:
 
-- Data Engineering  
-- Systems Programming
 - Competitive Programming
+- Systems Programming
+- Data Engineering
 - Investing / Finance 
 - Data Structures & Algorithms
 - Math / Statistics
